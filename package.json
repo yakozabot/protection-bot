@@ -1,4 +1,4 @@
-{
+{{
   "main": "index.js",
   "dependencies": {
     "array-sort": "^1.0.0",
