@@ -1,1 +1,1 @@
-# protection-bot
+[![Run on Repl.it](https://repl.it/badge/github/yakozabot/protection-bot)](https://repl.it/github/yakozabot/protection-bot)
